@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Eseu6N65MTzF3lhUP3ZmcWWN+U8=
+		dQUQXjXtN5Rc3qbLM3GNlCCuaGs=
 		</data>
 		<key>Modules/SwiftRaydioSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3pS0Rod6ysJuvub7KbLHkmUFtZM=
+		i4axOh8mi9aC1ATqf0sYmVI4sSo=
 		</data>
 		<key>Modules/SwiftRaydioSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SwiftRaydioSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		UdEDUoELWMNX6Prmm/+BRSZG2cs=
+		EcmaD6W7Kryk/PTl/fH00JreWMA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AOxSZJvL8iOr67/T/ckRBpLo2hMLGVPoEdhy/KdLKNQ=
+			D0HyolNgQk6Unbp89cZxI6sFJ2IR1/WDVTqavytGdE0=
 			</data>
 		</dict>
 		<key>Modules/SwiftRaydioSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yXlmESbA1i5K4elW4tICquEZPg9UYUzSQ9D6J69U1Ro=
+			Pl1Ncca9qT6PZ2uE4yeit9MLTda+z1ld+O1qk0mX/p0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
