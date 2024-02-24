@@ -5897,93 +5897,100 @@
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 2550,
+      "offset": 2549,
       "length": 27,
       "value": "\"Disconnected from backend\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 2818,
+      "offset": 2817,
       "length": 20,
       "value": "\"Starting reconnect\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3335,
+      "offset": 3334,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3469,
+      "offset": 3468,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "BooleanLiteral",
-      "offset": 3579,
+      "offset": 3578,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 3840,
+      "offset": 3839,
       "length": 19,
       "value": "\"Connection failed\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 5408,
+      "offset": 5407,
       "length": 14,
       "value": "\"Read failed \""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 5763,
+      "offset": 5762,
       "length": 34,
       "value": "\"Connected starting ping workflow\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 5981,
+      "offset": 5980,
       "length": 24,
       "value": "\"Connected successfully\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 6392,
+      "offset": 6391,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 6563,
+      "offset": 6562,
       "length": 29,
       "value": "\"Connection was closed with \""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 6624,
+      "offset": 6623,
       "length": 7,
       "value": "\" and \""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
       "kind": "StringLiteral",
-      "offset": 6866,
+      "offset": 6865,
       "length": 29,
       "value": "\"Connection was closed with \""
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Websocket\/Websocket.swift",
+      "kind": "StringLiteral",
+      "offset": 7004,
+      "length": 27,
+      "value": "\"Failure during connection\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/requests\/UserTransportConnectRequest.swift",
@@ -6486,8 +6493,8 @@
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Config.swift",
       "kind": "StringLiteral",
       "offset": 64,
-      "length": 31,
-      "value": "\"wss:\/\/sfu.mycrocast.de\/socket\""
+      "length": 30,
+      "value": "\"ws:\/\/sfu.mycrocast.de\/socket\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/Messaging\/Response\/ResponseHandler.swift",
