@@ -6795,7 +6795,7 @@
       "kind": "StringLiteral",
       "offset": 1752,
       "length": 34,
-      "value": "\"Connecting SDK with version 1.08\""
+      "value": "\"Connecting SDK with version 1.09\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/Session.swift",
