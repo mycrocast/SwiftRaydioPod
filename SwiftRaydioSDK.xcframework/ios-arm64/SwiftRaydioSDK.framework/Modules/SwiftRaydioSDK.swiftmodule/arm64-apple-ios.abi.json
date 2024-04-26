@@ -4138,6 +4138,16 @@
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
+        "moduleName": "SwiftRaydioSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "SwiftRaydioSDK"
       },
       {
@@ -6372,113 +6382,148 @@
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
+      "kind": "Array",
+      "offset": 2929,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
+      "kind": "Array",
+      "offset": 2989,
+      "length": 33,
+      "value": "[\"stun:raydio.mycrocast.com:443\"]"
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
+      "kind": "Array",
+      "offset": 3080,
+      "length": 127,
+      "value": "[\"turn:raydio.mycrocast.com:443\", \"turn:raydio.mycrocast.com:443?transport=udp\", \"turn:raydio.mycrocast.com:443?transport=tcp\"]"
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 3219,
+      "length": 11,
+      "value": "\"mycrocast\""
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
+      "kind": "StringLiteral",
+      "offset": 3244,
+      "length": 31,
+      "value": "\"MycrocastCoturnAuthentication\""
+    },
+    {
+      "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "IntegerLiteral",
-      "offset": 3876,
+      "offset": 4514,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 4148,
+      "offset": 4786,
       "length": 19,
       "value": "\"Created transport\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 4350,
+      "offset": 4988,
       "length": 51,
       "value": "\"Trying to send when socket not in connected state\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "BooleanLiteral",
-      "offset": 4821,
+      "offset": 5459,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 6592,
+      "offset": 7230,
       "length": 51,
       "value": "\"Trying to send when socket not in connected state\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 8254,
+      "offset": 8892,
       "length": 51,
       "value": "\"Trying to send when socket not in connected state\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 9003,
+      "offset": 9641,
       "length": 17,
       "value": "\"Start consuming\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 9644,
+      "offset": 10282,
       "length": 17,
       "value": "\"Consume success\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 9751,
+      "offset": 10389,
       "length": 19,
       "value": "\"Reconnect started\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "IntegerLiteral",
-      "offset": 9935,
+      "offset": 10573,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "IntegerLiteral",
-      "offset": 10001,
+      "offset": 10639,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 10587,
+      "offset": 11225,
       "length": 19,
       "value": "\"On Connect called\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 11362,
+      "offset": 12000,
       "length": 30,
       "value": "\"Transport connect successful\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 11647,
+      "offset": 12285,
       "length": 51,
       "value": "\"Trying to send when socket not in connected state\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 11938,
+      "offset": 12576,
       "length": 28,
       "value": "\"Connection state changed: \""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/livestream\/listener\/player\/MediaSoupPlayer.swift",
       "kind": "StringLiteral",
-      "offset": 12638,
+      "offset": 13276,
       "length": 17,
       "value": "\"Consumer closed\""
     },
@@ -6788,7 +6833,7 @@
       "kind": "StringLiteral",
       "offset": 1752,
       "length": 34,
-      "value": "\"Connecting SDK with version 1.10\""
+      "value": "\"Connecting SDK with version 1.11\""
     },
     {
       "filePath": "\/Users\/sbeeckmann\/Documents\/GitHub\/swiftRaydioSDK\/SwiftRaydioSDK\/SwiftRaydioSDK\/workflows\/Session.swift",
